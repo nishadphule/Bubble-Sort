@@ -1,0 +1,8 @@
+What is Bubble Sort :
+    
+    Bubble Sort is a sorting techniques used to sort arrays in ascending or descending orders.
+    This algorithm works by comparing adjacent elements of an array or a string and swapping them if they are out of place.
+    Since it compares only two elements at a time, it is not an optimal solution for Sorting large datasets.
+    But it is preferable for sorting datasets with less number of elements.
+
+Head on to the code section to see how Bubble Sort actually works!
